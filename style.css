@@ -1,0 +1,11 @@
+body {
+  text-align: center;
+}
+
+#myCanvas {
+  border: solid black 2px;
+}
+
+#coralEl1 {
+  display: none;
+}
